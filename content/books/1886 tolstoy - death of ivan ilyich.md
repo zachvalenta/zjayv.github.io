@@ -32,7 +32,7 @@ As for the book itself, it's morally serious and artistically well-wrought. I'd 
 
 * Maybe part of Tolstoy's rejection here is cultural. He uses French phrases to indicate Ivan's social standing ("it all merely fell under the rubric of the French saying: il faut que jeunesse se passe") [11], whereas the one unsullied character in the novel, Gerasim, is a peasant described as dressing "Russian-style". [35]
 
-__style__
+### style
 
 * One of Tolstoy's moves is contrasting longer sentences of emotional intensity with laconic interruptions of plotting. For example: after a paragraph describing Ivan's emotional turmoil, the next paragraph starts thus:
 
@@ -44,7 +44,7 @@ __style__
 * Tolstoy wants to depict the interiority of his characters at their most intense moments; the narrative voice switches from direct address to indirect when Ivan Ilyich becomes sick [preface vii]. Cormac McCarthy comes to mind as an opposite pole, committed depiction of extremes but with dispassionate exteriority and a terrible narratorial calm.
 * Tolstoy treats a serious topic with seriousness, but it doesn't have to be so: [Robert Coover takes on the same topic but with comedy](https://www.newyorker.com/magazine/2011/03/14/going-for-a-beer).
 
-__brief biography of Tolstoy__
+### brief biography of Tolstoy
 
 * 1828: born nobility
 * 1852: early novels are bildungsroman
