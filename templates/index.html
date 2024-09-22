@@ -1,9 +1,10 @@
 {% extends "base.html" %}
 {% block content %}
 
-<h1 class="title">This is my blog made with Zola.</h1>
+<h1 class="title">Zach Valenta</h1>
 
-<p><a href="{{ get_url(path='@/blog/_index.md') }}">blog</a></p>
-<p><a href="{{ get_url(path='@/books/_index.md') }}">book notes</a></p>
+<p>📡 <a href="{{ get_url(path='@/blog/_index.md') }}">blog</a></p>
+<p>📚 <a href="{{ get_url(path='@/books/_index.md') }}">book notes</a></p>
+<p>🗿 <a href="{{ get_url(path='@/about.md') }}">about</a></p>
 
 {% endblock content %}
