@@ -37,3 +37,4 @@ nature amid city life
 
 the natural beauty of city life itself
 > gazing down from some eminence at the congeries of the roof tiles stretching out for miles in all directions under the blazing sun...each and every detail of this dizzying panorama assailed his senses with a force that drummed into his head the word, “Mag-nif-i-cent!"' [137]
+
