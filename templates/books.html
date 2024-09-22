@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1 class="title"> {{ section.title }} </h1>
+
+<p><a href="{{ get_url(path='@/books/fiction/_index.md') }}">fiction</a></p>
+<p><a href="{{ get_url(path='@/books/nonfiction/_index.md') }}">non-fiction</a></p>
+
+{% endblock content %}
