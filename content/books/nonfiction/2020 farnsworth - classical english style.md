@@ -1,14 +1,8 @@
 +++
-title = "2020 Farnsworth - English Style"
-draft = true
+title = "2020 Farnsworth - Classical English Style"
 +++
 
 ---
-
-NEW TAXONOMY
-* words
-* clauses
-* sentences
 
 ## tldr
 

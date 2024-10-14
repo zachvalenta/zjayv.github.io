@@ -59,6 +59,8 @@ template = "quotes.html"
 
 > We want to be, honestly, what we are. We like humans. We like people. We think people have great potential, and even if they aren't what they seem, we are happy with them. - [Robin Hanson](https://conversationswithtyler.com/episodes/robin-hanson/)
 
+> "I'm pretty sure, I'm not a doctor, but I'm pretty sure if you die, the cancer dies at the same time. That's not a loss. That's a draw." - Norm McDonald
+
 ## thinking
 
 > Therefore, when I saw so much nervous apprehension that, if I were permitted to speak -- when I found they were afraid to have me speak -- when I found that they considered my speaking damaging to their cause -- when I found that they appealed from facts and reasonings to mob law -- I said, no man need tell me what the heart and secret counsel of these men are. They tremble and they are afraid. - [Henry Ward Beecher](https://en.wikipedia.org/wiki/Henry_Ward_Beecher)
