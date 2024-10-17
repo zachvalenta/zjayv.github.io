@@ -75,3 +75,8 @@ template = "quotes.html"
 
 > Computers are deterministic, structured, simplistic, repetitious, unimaginative, unsympathetic, uncreative. - [William Kent](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215)
 
+# history
+
+> History teaches us nothing except that something will happen - Lord Dacre
+
+> The wrath of God lies sleeping. It was hid a million years before men were and only men have power to wake it. Hell ain't half full. https://en.wikiquote.org/wiki/Blood_Meridian
