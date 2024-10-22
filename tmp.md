@@ -10,6 +10,8 @@
 
 # blog
 
+addendum https://blog.plover.com/math/PM.html https://blog.plover.com/calendar/poor-richards-almanack.html
+
 AI
 * supercharged smart young people
 * the role of web search
@@ -42,7 +44,7 @@ PROJECTS
 collections https://buttondown.com/hillelwayne/archive/in-defense-of/
 * favorite software writing: Paul Ford what is code https://registerspill.thorstenball.com/p/joy-and-curiosity-8 https://www.youtube.com/watch?v=5WLlLxU2EZE
 * blogroll https://claytonerrington.com/
-* little people on the internet https://git-how.com/
+* little people on the internet https://git-how.com/ https://blog.plover.com/misc/three-corners-4.html
 
 # software
 
