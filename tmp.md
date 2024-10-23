@@ -65,6 +65,15 @@ HOW I CODE
 * tracing
 * analytics
 
+# photos
+
+DOCUMENTATION
+* https://jaapgrolleman.com/shanghai-before-the-foreigners/
+* https://loosejoints.biz/collections/current-titles/products/holy-island
+* https://loosejoints.biz/collections/current-titles/products/robin-graubard-road-to-nowhere
+* https://loosejoints.biz/collections/current-titles/products/office https://www.newyorker.com/culture/photo-booth/the-frightening-familiarity-of-late-nineties-office-photos https://news.ycombinator.com/item?id=41926849
+
+
 # idea glossary
 
 FASHION
