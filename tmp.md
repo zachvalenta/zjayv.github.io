@@ -44,11 +44,13 @@ PROJECTS
 collections https://buttondown.com/hillelwayne/archive/in-defense-of/
 * favorite software writing: Paul Ford what is code https://registerspill.thorstenball.com/p/joy-and-curiosity-8 https://www.youtube.com/watch?v=5WLlLxU2EZE
 * blogroll https://claytonerrington.com/
-* little people on the internet https://git-how.com/ https://blog.plover.com/misc/three-corners-4.html
+* little people on the internet https://git-how.com/ https://blog.plover.com/misc/three-corners-4.html bob is honest https://robertheaton.com/chatgpt/ https://uk.linkedin.com/in/robertjheaton
 
 # software
 
 * dev journal https://www.peterbaumgartner.com/blog/wrapping-a-rust-crate-in-a-python-package/
+* how to fake being a pythonista in 2024
+> I wish there was a good place to learn “the other parts” of C++, the build systems, using static analyzers, testing, dependency management, etc. https://news.ycombinator.com/item?id=34229802
 
 HOW I CODE
 > https://uses.tech/ meta https://calmcode.io/
