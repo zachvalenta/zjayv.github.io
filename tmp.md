@@ -50,6 +50,10 @@ JOB BOARDS
 * how to fake being a pythonista in 2024
 > I wish there was a good place to learn “the other parts” of C++, the build systems, using static analyzers, testing, dependency management, etc. https://news.ycombinator.com/item?id=34229802
 
+PREFERENCES
+* things I like: Vim, Python (pipx, bpython) visidata https://github.com/zachvalenta?tab=stars files https://alexdanco.com/2019/10/26/everything-is-amazing-but-nothing-is-ours/
+* devs I like: Steve Yegge, Dan Luu, James Somers, Bob Heaton, Patrick McKenzie, Julia Evans
+
 HOW I CODE
 > https://uses.tech/ meta https://calmcode.io/
 > changing stuff and seeing what happens https://orlybooks.com/
