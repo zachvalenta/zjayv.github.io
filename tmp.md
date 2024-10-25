@@ -54,6 +54,12 @@ PREFERENCES
 * things I like: Vim, Python (pipx, bpython) visidata https://github.com/zachvalenta?tab=stars files https://alexdanco.com/2019/10/26/everything-is-amazing-but-nothing-is-ours/
 * devs I like: Steve Yegge, Dan Luu, James Somers, Bob Heaton, Patrick McKenzie, Julia Evans
 
+KEEPING UP
+* how to - SO, YT, https://devdocs.io/
+* general - HN, awesome-$foo, pods (SED, Python Podcast, Changelog) books (Manning, No Starch, Pragmatic)
+* news - LWN weekly edition, Hacker Newsletter, newsletters (Python, Golang, Django)
+* people - Thorsten, Luu, Somers, Patio11, Julia Evans, Jess Frazze, Yegge, PG
+
 HOW I CODE
 > https://uses.tech/ meta https://calmcode.io/
 > changing stuff and seeing what happens https://orlybooks.com/
