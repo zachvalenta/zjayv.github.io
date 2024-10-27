@@ -34,6 +34,7 @@ Ultimately, it's the book. Forsenic Discovery is awesome, even though its publis
 ✅ Pragmatic Publisher
 
 * books I like from them: Vim, SQL Anti-Patterns
+* https://pragprog.com/titles/d-dselena/dear-elena/
 * esoteric
 * customer service
 https://pragprog.com/support/index.html#new-site

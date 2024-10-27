@@ -29,7 +29,7 @@ addendum https://blog.plover.com/math/PM.html https://blog.plover.com/calendar/p
 AI
 * supercharged smart young people
 * the role of web search
-* teaching people how to ask better questions
+* teaching people how to ask better questions https://paulgraham.com/writes.html
 * https://www.fwdaudio.com/ https://x.com/barbell_fi
 
 HOW THINGS WORK
