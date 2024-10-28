@@ -46,6 +46,7 @@ JOB BOARDS
 
 ## software
 
+* EDI and Stedi: papering over a bad spec for fun and profit
 * dev journal https://www.peterbaumgartner.com/blog/wrapping-a-rust-crate-in-a-python-package/
 * how to fake being a pythonista in 2024
 > I wish there was a good place to learn “the other parts” of C++, the build systems, using static analyzers, testing, dependency management, etc. https://news.ycombinator.com/item?id=34229802
