@@ -13,7 +13,13 @@
 collections https://buttondown.com/hillelwayne/archive/in-defense-of/
 * favorite software writing: Paul Ford what is code https://registerspill.thorstenball.com/p/joy-and-curiosity-8 https://www.youtube.com/watch?v=5WLlLxU2EZE
 * blogroll https://claytonerrington.com/
-* little people on the internet https://git-how.com/ https://blog.plover.com/misc/three-corners-4.html bob is honest https://robertheaton.com/chatgpt/ https://uk.linkedin.com/in/robertjheaton
+
+### obsessives
+
+* https://git-how.com/
+* https://blog.plover.com/misc/three-corners-4.html
+* bob is honest https://robertheaton.com/chatgpt/ https://uk.linkedin.com/in/robertjheaton
+* https://en.wikipedia.org/wiki/Rosetta_Reitz
 
 ## idea glossary
 
