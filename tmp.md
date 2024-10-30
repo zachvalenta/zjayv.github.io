@@ -33,7 +33,7 @@ FASHION
 addendum https://blog.plover.com/math/PM.html https://blog.plover.com/calendar/poor-richards-almanack.html
 
 AI
-* supercharged smart young people
+* supercharged smart young people https://www.youtube.com/watch?v=OmiwV8kUz2E
 * the role of web search
 * teaching people how to ask better questions https://paulgraham.com/writes.html
 * https://www.fwdaudio.com/ https://x.com/barbell_fi
@@ -56,6 +56,11 @@ JOB BOARDS
 * dev journal https://www.peterbaumgartner.com/blog/wrapping-a-rust-crate-in-a-python-package/
 * how to fake being a pythonista in 2024
 > I wish there was a good place to learn “the other parts” of C++, the build systems, using static analyzers, testing, dependency management, etc. https://news.ycombinator.com/item?id=34229802
+
+COMPLAINTS
+* Python pkg structure
+* Markdown top-level headers
+* EDI
 
 PREFERENCES
 * things I like: Vim, Python (pipx, bpython) visidata https://github.com/zachvalenta?tab=stars files https://alexdanco.com/2019/10/26/everything-is-amazing-but-nothing-is-ours/
