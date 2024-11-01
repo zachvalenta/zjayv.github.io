@@ -41,7 +41,7 @@ AI
 HOW THINGS WORK
 * movies https://www.theringer.com/2024/8/21/24225522/the-arms-race-behind-where-movies-shoot https://www.theringer.com/2024/9/23/24252627/biggest-takeaways-netflix-data-dump-2024-streaming https://www.theringer.com/2024/9/25/24253629/how-to-make-your-own-tv-show-and-get-netflix-to-buy-it-mark-duplass-penelope-netflix https://www.theringer.com/2024/9/30/24258856/how-should-movie-and-tv-stars-be-paid
 https://kaiwenwang.com/stack
-https://gwern.net/matt-levine https://www.felixstocker.com/blog/geheimnisvoll
+https://gwern.net/matt-levine https://www.felixstocker.com/blog/geheimnisvoll https://news.ycombinator.com/item?id=41975993
 https://gwern.net/book-writing
 
 JOB BOARDS
@@ -52,7 +52,7 @@ JOB BOARDS
 
 ## software
 
-* EDI and Stedi: papering over a bad spec for fun and profit
+* EDI and Stedi: papering over a bad spec for fun and profit https://news.ycombinator.com/item?id=41919907
 * dev journal https://www.peterbaumgartner.com/blog/wrapping-a-rust-crate-in-a-python-package/
 * how to fake being a pythonista in 2024
 > I wish there was a good place to learn “the other parts” of C++, the build systems, using static analyzers, testing, dependency management, etc. https://news.ycombinator.com/item?id=34229802
