@@ -64,7 +64,7 @@ COMPLAINTS
 
 PREFERENCES
 * things I like: Vim, Python (pipx, bpython) visidata https://github.com/zachvalenta?tab=stars files https://alexdanco.com/2019/10/26/everything-is-amazing-but-nothing-is-ours/
-* devs I like: Steve Yegge, Dan Luu, James Somers, Bob Heaton, Patrick McKenzie, Julia Evans
+* devs I like: Steve Yegge, Dan Luu, James Somers, Bob Heaton, Patrick McKenzie, Julia Evans https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/ https://registerspill.thorstenball.com/p/joy-and-curiosity-13
 
 KEEPING UP
 * how to - SO, YT, https://devdocs.io/
