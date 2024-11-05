@@ -32,12 +32,6 @@ FASHION
 
 addendum https://blog.plover.com/math/PM.html https://blog.plover.com/calendar/poor-richards-almanack.html
 
-AI
-* supercharged smart young people https://www.youtube.com/watch?v=OmiwV8kUz2E
-* the role of web search
-* teaching people how to ask better questions https://paulgraham.com/writes.html
-* https://www.fwdaudio.com/ https://x.com/barbell_fi
-
 HOW THINGS WORK
 * movies https://www.theringer.com/2024/8/21/24225522/the-arms-race-behind-where-movies-shoot https://www.theringer.com/2024/9/23/24252627/biggest-takeaways-netflix-data-dump-2024-streaming https://www.theringer.com/2024/9/25/24253629/how-to-make-your-own-tv-show-and-get-netflix-to-buy-it-mark-duplass-penelope-netflix https://www.theringer.com/2024/9/30/24258856/how-should-movie-and-tv-stars-be-paid
 https://kaiwenwang.com/stack
@@ -85,7 +79,15 @@ HOW I CODE
 * tracing
 * analytics
 
-## TIL
+### AI
+
+* supercharged smart young people https://www.youtube.com/watch?v=OmiwV8kUz2E
+* the role of web search
+* teaching people how to ask better questions https://paulgraham.com/writes.html
+* https://www.fwdaudio.com/ https://x.com/barbell_fi
+* punishes languages with bad semantics e.g. SQL CTE's https://talkpython.fm/episodes/show/481/python-opinions-and-zeitgeist-with-hynek
+
+### TIL
 
 Lazygit multiple repos
 
