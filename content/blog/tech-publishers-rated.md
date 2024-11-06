@@ -63,6 +63,8 @@ https://pragprog.com/support/index.html#new-site
 
 academic = expensive https://www.amazon.com/dp/0134757599/
 
+uncle bob books
+
 # blogs
 
 * Heaton on HTTPS, Vincent on Django

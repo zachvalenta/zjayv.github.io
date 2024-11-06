@@ -86,6 +86,8 @@ HOW I CODE
 * teaching people how to ask better questions https://paulgraham.com/writes.html
 * https://www.fwdaudio.com/ https://x.com/barbell_fi
 * punishes languages with bad semantics e.g. SQL CTE's https://talkpython.fm/episodes/show/481/python-opinions-and-zeitgeist-with-hynek
+* Stack Overflow won in losing https://x.com/Altimor/status/1853893158368928124
+> https://paulgraham.com/writes.html PG might be right for most people but I estimate that LLMs will actually make their users *better* at writing clearly. Will take the Stack Overflow ethos to a wider audience. https://stackoverflow.com/help/how-to-ask
 
 ### TIL
 
