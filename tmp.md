@@ -51,22 +51,24 @@ JOB BOARDS
 * how to fake being a pythonista in 2024
 > I wish there was a good place to learn “the other parts” of C++, the build systems, using static analyzers, testing, dependency management, etc. https://news.ycombinator.com/item?id=34229802
 
-COMPLAINTS
+### AI
+
+* supercharged smart young people https://www.youtube.com/watch?v=OmiwV8kUz2E
+* the role of web search
+* teaching people how to ask better questions https://paulgraham.com/writes.html
+* https://www.fwdaudio.com/ https://x.com/barbell_fi
+* punishes languages with bad semantics e.g. SQL CTE's https://talkpython.fm/episodes/show/481/python-opinions-and-zeitgeist-with-hynek
+* Stack Overflow won in losing https://x.com/Altimor/status/1853893158368928124
+> https://paulgraham.com/writes.html PG might be right for most people but I estimate that LLMs will actually make their users *better* at writing clearly. Will take the Stack Overflow ethos to a wider audience. https://stackoverflow.com/help/how-to-ask
+
+### complaints
+
 * Python pkg structure
 * Markdown top-level headers
 * EDI
 
-PREFERENCES
-* things I like: Vim, Python (pipx, bpython) visidata https://github.com/zachvalenta?tab=stars files https://alexdanco.com/2019/10/26/everything-is-amazing-but-nothing-is-ours/
-* devs I like: Steve Yegge, Dan Luu, James Somers, Bob Heaton, Patrick McKenzie, Julia Evans https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/ https://registerspill.thorstenball.com/p/joy-and-curiosity-13
+### how i code
 
-KEEPING UP
-* how to - SO, YT, https://devdocs.io/
-* general - HN, awesome-$foo, pods (SED, Python Podcast, Changelog) books (Manning, No Starch, Pragmatic)
-* news - LWN weekly edition, Hacker Newsletter, newsletters (Python, Golang, Django)
-* people - Thorsten, Luu, Somers, Patio11, Julia Evans, Jess Frazze, Yegge, PG
-
-HOW I CODE
 > https://uses.tech/ meta https://calmcode.io/
 > changing stuff and seeing what happens https://orlybooks.com/
 * profiling
@@ -79,15 +81,26 @@ HOW I CODE
 * tracing
 * analytics
 
-### AI
+### my little world
 
-* supercharged smart young people https://www.youtube.com/watch?v=OmiwV8kUz2E
-* the role of web search
-* teaching people how to ask better questions https://paulgraham.com/writes.html
-* https://www.fwdaudio.com/ https://x.com/barbell_fi
-* punishes languages with bad semantics e.g. SQL CTE's https://talkpython.fm/episodes/show/481/python-opinions-and-zeitgeist-with-hynek
-* Stack Overflow won in losing https://x.com/Altimor/status/1853893158368928124
-> https://paulgraham.com/writes.html PG might be right for most people but I estimate that LLMs will actually make their users *better* at writing clearly. Will take the Stack Overflow ethos to a wider audience. https://stackoverflow.com/help/how-to-ask
+https://www.slowboring.com/p/a-tale-of-two-machines
+
+* things I like: Vim, Python (pipx, bpython) visidata https://github.com/zachvalenta?tab=stars files https://alexdanco.com/2019/10/26/everything-is-amazing-but-nothing-is-ours/
+* devs I like: Steve Yegge, Dan Luu, James Somers, Bob Heaton, Patrick McKenzie, Julia Evans https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/ https://registerspill.thorstenball.com/p/joy-and-curiosity-13
+
+KEEPING UP
+* how to - SO, YT, https://devdocs.io/
+* general - HN, awesome-$foo, pods (SED, Python Podcast, Changelog) books (Manning, No Starch, Pragmatic)
+* news - LWN weekly edition, Hacker Newsletter, newsletters (Python, Golang, Django)
+* people - Thorsten, Luu, Somers, Patio11, Julia Evans, Jess Frazze, Yegge, PG
+
+things outside my little world https://www.oneletterwords.com/weblog/?c=Restoring+the+Lost+Sense
+
+### conferences
+
+* PyCon: price, Youtube video URL change https://pycon-archive.python.org/2024/schedule/
+* authority e.g. voting security talk
+* Yegge visibility but also a way to fake
 
 ### TIL
 
