@@ -12,15 +12,33 @@ Ultimately, it's the book. Forsenic Discovery is awesome, even though its publis
 * industry: Amazon ML courses https://news.ycombinator.com/item?id=24167034
 > didn't google do something like this?
 
-# No Starch
+https://danluu.com/programming-books/
 
+# 🟩 GREAT
+
+## blogs
+
+* Heaton on HTTPS, Vincent on Django
+
+## Manning
+
+* books I like from them: Grokking Algorithms
+* volume
+* breadcrumb notation (not on Grokking though)
+* video series seem like cash grab on their most popular titles vs. actually doing some sort of interactive visualization
+
+## No Starch
+
+* owned by Penguin? https://www.penguinrandomhouse.com/books/565590/clojure-for-the-brave-and-true-by-daniel-higginbotham/
 * books I like from them: LPI
 * DRM-free
 * fun!
 * customer service
 * limited selection
 
-# O'Reilly
+# 🟨 GOOD
+
+## O'Reilly
 
 * DRM dark side (used to be free...) https://github.com/AlisdairO/pgexercises/pull/50/files
 * editing: Flask Web Dev, SQLAlchemy (Grinberg seems like a good guy, btw)
@@ -31,7 +49,7 @@ Ultimately, it's the book. Forsenic Discovery is awesome, even though its publis
 * quality control e.g. terms not in index: Bradshaw 162, 163, 173, 188/193, 161
 * https://news.ycombinator.com/item?id=31260643
 
-# Pragmatic Publisher
+## Pragmatic Press
 
 * books I like from them: Vim, SQL Anti-Patterns
 * https://pragprog.com/titles/d-dselena/dear-elena/
@@ -39,32 +57,23 @@ Ultimately, it's the book. Forsenic Discovery is awesome, even though its publis
 * customer service
 https://pragprog.com/support/index.html#new-site
 
-# Manning
-
-* books I like from them: Grokking Algorithms
-* volume
-* breadcrumb notation (not on Grokking though)
-* video series seem like cash grab on their most popular titles vs. actually doing some sort of interactive visualization
-
-# PluralSight
-
-* if you want to become a Microsoft MVP or do 47 hours of AWS training...
-* search is bad: 'alchemy' does not return course on SQLAlchemy
-
-# Youtube
+## Youtube
 
 * best for video but PluralSight will continue to make money bc large corporations want to have CERTIFIED TRAINING OPTIONS (PG essay) in the same way that the military will spend $5k on a toilet
 
-# Udemy
+# 🟥 MEH
 
-* Janetakis
-
-# Addison Wesley
+## Addison Wesley
 
 academic = expensive https://www.amazon.com/dp/0134757599/
 
 uncle bob books
 
-# blogs
+## PluralSight
 
-* Heaton on HTTPS, Vincent on Django
+* if you want to become a Microsoft MVP or do 47 hours of AWS training...
+* search is bad: 'alchemy' does not return course on SQLAlchemy
+
+## Udemy
+
+* Janetakis
