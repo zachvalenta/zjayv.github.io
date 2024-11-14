@@ -85,7 +85,14 @@ JOB BOARDS
 * tracing
 * analytics
 
+### learning to code failures
+
+* https://danluu.com/learning-to-program/
+* DHH https://www.youtube.com/watch?v=9LfmrkyP81M
+
 ### my little world
+
+https://danluu.com/navigate-url/
 
 * marginal contribution https://mattlakeman.org/2024/11/08/notes-on-guyana/
 
@@ -107,6 +114,19 @@ things outside my little world https://www.oneletterwords.com/weblog/?c=Restorin
 * PyCon: price, Youtube video URL change https://pycon-archive.python.org/2024/schedule/
 * authority e.g. voting security talk
 * Yegge visibility but also a way to fake
+
+### predictions
+
+https://danluu.com/yegge-predictions/ https://danluu.com/butler-lampson-1999/
+https://danluu.com/corrections/ https://danluu.com/bad-decisions/
+
+python will get fast before anything else gets readable
+
+### share your work
+
+* https://www.pinecone.io/learn/jupyter-notebooks/
+* Datasette
+* site itself (for frontend people)
 
 ### TIL
 

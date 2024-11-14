@@ -13,6 +13,8 @@ date = 2024-09-22
 
 ### [the average 'success story' resembles high schoolers gaming the Ivy League](https://news.ycombinator.com/item?id=12262405)
 
+https://danluu.com/algorithms-interviews/
+
 > WTF is wrong with this industry?!? You have 4 months to train for a better job and the best advice is to spend the time studying interview techniques?? __That's where we are? Teaching to the test??__ I can understand an argument of "well, OP wants to get into Google, and this is the best way"...maybe it should take longer than 4 months to get a job at Google. Am I taking crazy pills?
 
 > I interviewed at Airbnb, Facebook, Lyft, Uber, and 3 other companies. I received offers from Facebook, Lyft, Uber, and 2 other companies. First year total compensation ranged from 380k~500k...I set a measurable goal for prep. 200 Leetcode questions...__[Edit: Sad to see that "discouraging" became the top comment.](https://www.reddit.com/r/cscareerquestions/comments/cdp9yz/another_data_point_on_industry_hire_in_the_bay/)__
