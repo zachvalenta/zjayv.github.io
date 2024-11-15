@@ -65,6 +65,8 @@ JOB BOARDS
 * Stack Overflow won in losing https://x.com/Altimor/status/1853893158368928124
 > https://paulgraham.com/writes.html PG might be right for most people but I estimate that LLMs will actually make their users *better* at writing clearly. Will take the Stack Overflow ethos to a wider audience. https://stackoverflow.com/help/how-to-ask
 
+> https://news.ycombinator.com/item?id=42095434 there's a fair amount of pushback as well. i align with the first comment to this guy. decent amount of pushback seems like: "im a real man, my editor is emacs, i have strong opinions about c99 vs. rust, LLMs are for homos who write $DYNAMICALLY_TYPED_LANGUAGE_HERE" + people that are bad at writing prompts. essentially, LLMs reward the type of person who could write a good question on Stack Overflow or otherwise teaches them how to do so (if they are willing to learn) https://stackoverflow.com/help/mcve - to Josh/Kurt 24.11.15
+
 ### complaints
 
 * Python pkg structure
@@ -132,6 +134,7 @@ python will get fast before anything else gets readable
 
 https://jvns.ca/blog/2024/11/09/new-microblog/
 Lazygit multiple repos
+https://news.ycombinator.com/item?id=42116800
 
 # FS
 
