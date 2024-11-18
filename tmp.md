@@ -31,9 +31,9 @@ FASHION
 
 # BLOG
 
-addendum https://blog.plover.com/math/PM.html https://blog.plover.com/calendar/poor-richards-almanack.html
-
-companies I want to work for https://www.wave.com/en/blog/world/
+* addendum https://blog.plover.com/math/PM.html https://blog.plover.com/calendar/poor-richards-almanack.html
+* factors: smart, wise, taste
+* companies I want to work for https://www.wave.com/en/blog/world/
 
 HOW THINGS WORK
 * movies https://www.theringer.com/2024/8/21/24225522/the-arms-race-behind-where-movies-shoot https://www.theringer.com/2024/9/23/24252627/biggest-takeaways-netflix-data-dump-2024-streaming https://www.theringer.com/2024/9/25/24253629/how-to-make-your-own-tv-show-and-get-netflix-to-buy-it-mark-duplass-penelope-netflix https://www.theringer.com/2024/9/30/24258856/how-should-movie-and-tv-stars-be-paid
@@ -57,7 +57,7 @@ JOB BOARDS
 
 ### AI
 
-* supercharged smart young people https://www.youtube.com/watch?v=OmiwV8kUz2E
+* supercharged smart young people https://www.youtube.com/watch?v=OmiwV8kUz2E https://www.bitecode.dev/p/what-if-ai-eventually-make-programmers
 * the role of web search
 * teaching people how to ask better questions https://paulgraham.com/writes.html
 * https://www.fwdaudio.com/ https://x.com/barbell_fi
