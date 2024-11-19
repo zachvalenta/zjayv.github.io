@@ -57,6 +57,7 @@ JOB BOARDS
 
 ### AI
 
+* what i use it for: tool recs, big picture questions, learning new concepts (regression, dimensional analysis)
 * supercharged smart young people https://www.youtube.com/watch?v=OmiwV8kUz2E https://www.bitecode.dev/p/what-if-ai-eventually-make-programmers
 * the role of web search
 * teaching people how to ask better questions https://paulgraham.com/writes.html
