@@ -76,6 +76,7 @@ JOB BOARDS
 
 ### how i code
 
+https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-network-dns
 > https://uses.tech/ meta https://calmcode.io/
 > changing stuff and seeing what happens https://orlybooks.com/
 * profiling
