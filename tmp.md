@@ -161,6 +161,7 @@ OVERRATED
 
 # PROJECTS
 
-* book of lyrics for Luambo, Rochereau, Mulatu, Francis Bebey, Cesaria Evora, Amalia Rodrigues
+* learn econ with Python https://en.wikipedia.org/wiki/Paul_Romer
+* book of lyrics for Babatunde, Luambo, Rochereau, Mulatu, Francis Bebey, Cesaria Evora, Amalia Rodrigues
 * history of thought https://www.amazon.com/Ideas-History-Thought-Invention-Freud/dp/0060935642 https://www.amazon.com/Ideas-History-Thought-Invention-Freud/dp/0060935642 https://www.amazon.com/Brief-History-Thought-Philosophical-Learning/dp/0062074245 https://www.amazon.com/History-Knowledge-Past-Present-Future/dp/0345373162 https://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X
 * Delco photo book https://jaapgrolleman.com/shanghai-before-the-foreigners/ https://loosejoints.biz/collections/current-titles/products/holy-island https://loosejoints.biz/collections/current-titles/products/robin-graubard-road-to-nowhere https://loosejoints.biz/collections/current-titles/products/office https://www.newyorker.com/culture/photo-booth/the-frightening-familiarity-of-late-nineties-office-photos https://news.ycombinator.com/item?id=41926849
