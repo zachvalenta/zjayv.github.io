@@ -32,10 +32,6 @@ on a personal level, it will be an engine for inequality. the concept of a 10x d
 
 # impact on sw dev
 
-https://registerspill.thorstenball.com/p/they-all-use-it https://news.ycombinator.com/item?id=41930767
-makes mistakes all the time but that's why we're here! re: `direnv` https://chatgpt.com/c/673f8c16-e090-8004-bdc8-564bbfeb33d5
-> LLMs are good at explaining code. Give it code in a language you don't understand and it will explain it with 90% accuracy. https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html#simon-willison-keynote
-
 https://news.ycombinator.com/item?id=42095434 there's a fair amount of pushback as well. i align with the first comment to this guy. decent amount of pushback seems like: "im a real man, my editor is emacs, i have strong opinions about c99 vs. rust, LLMs are for homos who write $DYNAMICALLY_TYPED_LANGUAGE_HERE" + people that are bad at writing prompts. essentially, LLMs reward the type of person who could write a good question on Stack Overflow or otherwise teaches them how to do so (if they are willing to learn) https://stackoverflow.com/help/mcve - to Josh/Kurt 24.11.15
 
 this sounds hyperbolic, but i think AI is going to be akin to the dawn of relational databases in the 80s when it comes to the software industry. re: orgs.
@@ -49,3 +45,11 @@ bigger economy = longer tail
 > The amount of money flowing through capitalism would astound you. The number and variety of firms participating in the economy would astound you. We don't see most of it every day for the same reason abstractions protect us from having to care about metallurgy while programming. - McKenzie https://twitter.com/patio11/status/936629780719419392
 
 more code = longer tail (like Cobol-to-Java AIs) https://bloop.ai/
+
+## misunderstanding
+
+https://www.youtube.com/watch?v=dkV01hBdhZE
+https://registerspill.thorstenball.com/p/they-all-use-it https://news.ycombinator.com/item?id=41930767
+makes mistakes all the time but that's why we're here! re: `direnv` https://chatgpt.com/c/673f8c16-e090-8004-bdc8-564bbfeb33d5
+> The crux of my raging hatred is not that I hate LLMs or the generative AI craze. I had my fun with Copilot before I decided that it was making me stupider - it's impressive, but not actually suitable for anything more than churning out boilerplate. Nothing wrong with that, but it did not end up being the crazy productivity booster that I thought it would be, because programming is designing and these tools aren't good enough (yet) to assist me with this seriously. https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/
+> LLMs are good at explaining code. Give it code in a language you don't understand and it will explain it with 90% accuracy. https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html#simon-willison-keynote
