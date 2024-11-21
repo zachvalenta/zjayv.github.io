@@ -57,6 +57,9 @@ JOB BOARDS
 
 ### AI
 
+https://registerspill.thorstenball.com/p/they-all-use-it
+> LLMs are good at explaining code. Give it code in a language you don't understand and it will explain it with 90% accuracy. https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html#simon-willison-keynote
+
 * what i use it for: tool recs, big picture questions, learning new concepts (regression, dimensional analysis)
 * supercharged smart young people https://www.youtube.com/watch?v=OmiwV8kUz2E https://www.bitecode.dev/p/what-if-ai-eventually-make-programmers
 * the role of web search
@@ -95,8 +98,6 @@ https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-net
 * DHH https://www.youtube.com/watch?v=9LfmrkyP81M
 
 ### my little world
-
-the design of tables https://lisamahapatra.com/
 
 https://danluu.com/navigate-url/
 
