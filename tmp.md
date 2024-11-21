@@ -55,22 +55,6 @@ JOB BOARDS
 * how to fake being a pythonista in 2024
 > I wish there was a good place to learn “the other parts” of C++, the build systems, using static analyzers, testing, dependency management, etc. https://news.ycombinator.com/item?id=34229802
 
-### AI
-
-https://registerspill.thorstenball.com/p/they-all-use-it
-> LLMs are good at explaining code. Give it code in a language you don't understand and it will explain it with 90% accuracy. https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html#simon-willison-keynote
-
-* what i use it for: tool recs, big picture questions, learning new concepts (regression, dimensional analysis)
-* supercharged smart young people https://www.youtube.com/watch?v=OmiwV8kUz2E https://www.bitecode.dev/p/what-if-ai-eventually-make-programmers
-* the role of web search
-* teaching people how to ask better questions https://paulgraham.com/writes.html
-* https://www.fwdaudio.com/ https://x.com/barbell_fi
-* punishes languages with bad semantics e.g. SQL CTE's https://talkpython.fm/episodes/show/481/python-opinions-and-zeitgeist-with-hynek
-* Stack Overflow won in losing https://x.com/Altimor/status/1853893158368928124
-> https://paulgraham.com/writes.html PG might be right for most people but I estimate that LLMs will actually make their users *better* at writing clearly. Will take the Stack Overflow ethos to a wider audience. https://stackoverflow.com/help/how-to-ask
-
-> https://news.ycombinator.com/item?id=42095434 there's a fair amount of pushback as well. i align with the first comment to this guy. decent amount of pushback seems like: "im a real man, my editor is emacs, i have strong opinions about c99 vs. rust, LLMs are for homos who write $DYNAMICALLY_TYPED_LANGUAGE_HERE" + people that are bad at writing prompts. essentially, LLMs reward the type of person who could write a good question on Stack Overflow or otherwise teaches them how to do so (if they are willing to learn) https://stackoverflow.com/help/mcve - to Josh/Kurt 24.11.15
-
 ### complaints
 
 * Python pkg structure
