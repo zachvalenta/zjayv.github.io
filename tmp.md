@@ -96,6 +96,8 @@ https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-net
 
 ### my little world
 
+the design of tables https://lisamahapatra.com/
+
 https://danluu.com/navigate-url/
 
 * marginal contribution https://mattlakeman.org/2024/11/08/notes-on-guyana/
