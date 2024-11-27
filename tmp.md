@@ -55,6 +55,14 @@ JOB BOARDS
 * how to fake being a pythonista in 2024
 > I wish there was a good place to learn “the other parts” of C++, the build systems, using static analyzers, testing, dependency management, etc. https://news.ycombinator.com/item?id=34229802
 
+### little ideas
+
+> what should the form factor be here? repo? notebook? animation?
+
+* Levenshtein distance
+* dimensional analysis
+* strength of record
+
 ### complaints
 
 * Python pkg structure

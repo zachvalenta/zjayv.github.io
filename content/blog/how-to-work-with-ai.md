@@ -4,6 +4,11 @@ date = 2024-11-20
 draft = true
 +++
 
+# news
+
+https://www.ai-supremacy.com/archive
+https://news.ycombinator.com/item?id=42256093
+
 # web
 
 FEATURES
