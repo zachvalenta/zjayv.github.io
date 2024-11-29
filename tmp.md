@@ -129,6 +129,12 @@ OVERRATED
 * need data specific to problem
 > First, though you need a lot of data for machine learning, the data you use is very specific to the problem that you’re trying to solve. GE has lots of telemetry data from gas turbines, Google has lots of search data, and Amex has lots of credit card fraud data. You can’t use the turbine data as examples to spot fraudulent transactions, and you can’t use web searches to spot gas turbines that are about to fail. https://www.ben-evans.com/benedictevans/2018/12/19/does-ai-make-strong-tech-companies-stronger
 
+# 📹 HM
+
+## draw
+## music
+## skate
+
 # 📚️ MY BOOKS
 
 ## lyrics
@@ -270,3 +276,8 @@ for page, rank in sorted(result.items(), key=lambda x: x[1], reverse=True):
 # 📓 MY NOTES ON OTHERS BOOKS
 
 https://daverupert.com/bookshelf/
+
+# 🔑 PERSONAL
+
+## photos
+## updates
