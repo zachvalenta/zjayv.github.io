@@ -178,6 +178,77 @@ FIELDS
 * dimensional analysis
 * strength of record
 
+### apple stat project
+
+### crosstabs
+
+```python
+import pandas as pd
+
+# Sample data: our exit poll data includes an overrepresentation of college-educated white voters
+data = pd.DataFrame({
+    'group': ['College-Educated White', 'All Other Voters'],
+    'sample_size': [600, 400],  # Over-representation of college-educated white voters
+    'biden_support': [0.65, 0.50]  # Biden support in each group
+})
+
+# Known election result for Biden (e.g., 52%)
+actual_biden_support = 0.52
+
+# Step 1: Calculate total Biden support from the unweighted sample
+total_biden_votes_unweighted = sum(data['sample_size'] * data['biden_support'])
+total_votes = sum(data['sample_size'])
+biden_support_unweighted = total_biden_votes_unweighted / total_votes
+
+print(f"Unweighted Biden support: {biden_support_unweighted:.2f}")
+
+# Step 2: Calculate the necessary adjustment (weighting factor) to match actual election outcome
+weighting_factor = actual_biden_support / biden_support_unweighted
+
+# Step 3: Apply the weighting factor to the overrepresented group's support level
+# We adjust the weight of each group to match the actual result
+data['adjusted_biden_support'] = data['biden_support'] * weighting_factor
+
+# Step 4: Calculate the new overall weighted Biden support
+total_biden_votes_weighted = sum(data['sample_size'] * data['adjusted_biden_support'])
+biden_support_weighted = total_biden_votes_weighted / total_votes
+
+# Display the results
+print(f"Weighted Biden support: {biden_support_weighted:.2f}")
+print(data[['group', 'biden_support', 'adjusted_biden_support']])
+```
+
+### dimensional analysis
+
+```python
+import csv
+from collections import defaultdict
+
+# Example sales data (similar to previous example)
+data = [
+    {'Product': 'Laptop', 'Region': 'East', 'Sales': 10000},
+    {'Product': 'Phone', 'Region': 'West', 'Sales': 8000},
+    {'Product': 'Laptop', 'Region': 'East', 'Sales': 12000},
+    {'Product': 'Tablet', 'Region': 'West', 'Sales': 5000},
+    {'Product': 'Phone', 'Region': 'East', 'Sales': 9000}
+]
+
+# Dictionary to store aggregated sales
+sales_summary = defaultdict(int)
+
+# Aggregate sales by Product and Region
+for record in data:
+    product = record['Product']
+    region = record['Region']
+    sales = record['Sales']
+    # Using a tuple (product, region) as key to aggregate sales
+    sales_summary[(product, region)] += sales
+
+# Print the aggregated sales
+for (product, region), total_sales in sales_summary.items():
+    print(f"Product: {product}, Region: {region}, Total Sales: {total_sales}")
+```
+
 ### Levenshtein distance
 
 ```python
@@ -219,6 +290,8 @@ if __name__ == "__main__":
     distance = levenshtein_distance(str1, str2)
     print(f"Levenshtein distance between '{str1}' and '{str2}': {distance}")
 ```
+
+### markov chains
 
 ### PageRank
 
@@ -272,6 +345,8 @@ print("PageRank results:")
 for page, rank in sorted(result.items(), key=lambda x: x[1], reverse=True):
     print(f"{page}: {rank:.4f}")
 ```
+
+### telemetry vocab
 
 # 📓 MY NOTES ON OTHERS BOOKS
 
