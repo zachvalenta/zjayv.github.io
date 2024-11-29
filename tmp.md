@@ -1,7 +1,4 @@
-> tags or tree? both? https://www.jonashietala.se/blog/tags/neovim/
-structure https://rknight.me/
-
-# ABOUT
+# ❄️ ABOUT
 
 > gifs https://adamj.eu/contact/
 
@@ -9,27 +6,7 @@ structure https://rknight.me/
 * phone screen
 * quotes
 
-## favorites
-
-collections https://buttondown.com/hillelwayne/archive/in-defense-of/
-* favorite software writing: Paul Ford what is code https://registerspill.thorstenball.com/p/joy-and-curiosity-8 https://www.youtube.com/watch?v=5WLlLxU2EZE
-* blogroll https://claytonerrington.com/
-
-### obsessives
-
-* https://git-how.com/
-* https://blog.plover.com/misc/three-corners-4.html
-* bob is honest https://robertheaton.com/chatgpt/ https://uk.linkedin.com/in/robertjheaton
-* https://en.wikipedia.org/wiki/Rosetta_Reitz
-
-## idea glossary
-
-FASHION
-* vibe shift
-* matte vs. gloss
-* high heels
-
-# BLOG
+# 🗣️ BLOG
 
 * addendum https://blog.plover.com/math/PM.html https://blog.plover.com/calendar/poor-richards-almanack.html
 * factors: smart, wise, taste
@@ -47,29 +24,27 @@ JOB BOARDS
 * why aren't there tentpoles in this space akin to Hackernews and Lobste.rs?
 > get set up with RSS btw and use for Lobste.rs
 
-## software
+OBSESSIVES
+* https://git-how.com/
+* https://blog.plover.com/misc/three-corners-4.html
+* bob is honest https://robertheaton.com/chatgpt/ https://uk.linkedin.com/in/robertjheaton
+* https://en.wikipedia.org/wiki/Rosetta_Reitz
 
+ZA
 * EDI and Stedi: papering over a bad spec for fun and profit https://news.ycombinator.com/item?id=41919907
 > kinda like Typescript to JS, OCaml to JS
 * dev journal https://www.peterbaumgartner.com/blog/wrapping-a-rust-crate-in-a-python-package/
 * how to fake being a pythonista in 2024
 > I wish there was a good place to learn “the other parts” of C++, the build systems, using static analyzers, testing, dependency management, etc. https://news.ycombinator.com/item?id=34229802
 
-### little ideas
+## idea glossary
 
-> what should the form factor be here? repo? notebook? animation?
+FASHION
+* vibe shift
+* matte vs. gloss
+* high heels
 
-* Levenshtein distance
-* dimensional analysis
-* strength of record
-
-### complaints
-
-* Python pkg structure
-* Markdown top-level headers
-* EDI
-
-### how i code
+## how i code
 
 https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-network-dns
 > https://uses.tech/ meta https://calmcode.io/
@@ -84,13 +59,37 @@ https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-net
 * tracing
 * analytics
 
-### learning to code failures
+## TIL
 
+https://jvns.ca/blog/2024/11/09/new-microblog/
+Lazygit multiple repos
+https://news.ycombinator.com/item?id=42116800
+
+LEARNING TO CODE FAILURES
 * https://danluu.com/learning-to-program/
 * DHH https://www.youtube.com/watch?v=9LfmrkyP81M
 
+## opinions
+
+### complaints
+
+* Python pkg structure
+* Markdown top-level headers
+* EDI
+
+### conferences
+
+* PyCon: price, Youtube video URL change https://pycon-archive.python.org/2024/schedule/
+* authority e.g. voting security talk
+* Yegge visibility but also a way to fake
+
 ### my little world
 
+FAVORITES https://buttondown.com/hillelwayne/archive/in-defense-of/
+* favorite software writing: Paul Ford what is code https://registerspill.thorstenball.com/p/joy-and-curiosity-8 https://www.youtube.com/watch?v=5WLlLxU2EZE
+* blogroll https://claytonerrington.com/
+
+Klosterman/Simmons post-election
 https://danluu.com/navigate-url/
 
 * marginal contribution https://mattlakeman.org/2024/11/08/notes-on-guyana/
@@ -108,30 +107,12 @@ KEEPING UP
 
 things outside my little world https://www.oneletterwords.com/weblog/?c=Restoring+the+Lost+Sense
 
-### conferences
-
-* PyCon: price, Youtube video URL change https://pycon-archive.python.org/2024/schedule/
-* authority e.g. voting security talk
-* Yegge visibility but also a way to fake
-
 ### predictions
 
 https://danluu.com/yegge-predictions/ https://danluu.com/butler-lampson-1999/
 https://danluu.com/corrections/ https://danluu.com/bad-decisions/
 
 python will get fast before anything else gets readable
-
-### share your work
-
-* https://www.pinecone.io/learn/jupyter-notebooks/
-* Datasette
-* site itself (for frontend people)
-
-### TIL
-
-https://jvns.ca/blog/2024/11/09/new-microblog/
-Lazygit multiple repos
-https://news.ycombinator.com/item?id=42116800
 
 ### wrong on AI
 
@@ -148,15 +129,144 @@ OVERRATED
 * need data specific to problem
 > First, though you need a lot of data for machine learning, the data you use is very specific to the problem that you’re trying to solve. GE has lots of telemetry data from gas turbines, Google has lots of search data, and Amex has lots of credit card fraud data. You can’t use the turbine data as examples to spot fraudulent transactions, and you can’t use web searches to spot gas turbines that are about to fail. https://www.ben-evans.com/benedictevans/2018/12/19/does-ai-make-strong-tech-companies-stronger
 
-# FS
+# 📚️ MY BOOKS
 
-## book notes
+## lyrics
 
-> import from `shu`
+* Babatunde, Luambo, Rochereau, Mulatu, Francis Bebey, Cesaria Evora, Amalia Rodrigues
 
-# PROJECTS
+## learn econ with Python
 
 * learn econ with Python https://en.wikipedia.org/wiki/Paul_Romer
-* book of lyrics for Babatunde, Luambo, Rochereau, Mulatu, Francis Bebey, Cesaria Evora, Amalia Rodrigues
-* history of thought https://www.amazon.com/Ideas-History-Thought-Invention-Freud/dp/0060935642 https://www.amazon.com/Ideas-History-Thought-Invention-Freud/dp/0060935642 https://www.amazon.com/Brief-History-Thought-Philosophical-Learning/dp/0062074245 https://www.amazon.com/History-Knowledge-Past-Present-Future/dp/0345373162 https://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X
-* Delco photo book https://jaapgrolleman.com/shanghai-before-the-foreigners/ https://loosejoints.biz/collections/current-titles/products/holy-island https://loosejoints.biz/collections/current-titles/products/robin-graubard-road-to-nowhere https://loosejoints.biz/collections/current-titles/products/office https://www.newyorker.com/culture/photo-booth/the-frightening-familiarity-of-late-nineties-office-photos https://news.ycombinator.com/item?id=41926849
+
+## history of thought
+
+📙 history of private life
+
+FIELDS
+* math
+* physics
+* music
+* linguistics
+* religion
+* violence
+* music
+* literature
+* sociology
+* psycholgy
+* mythology
+* folk tales
+
+* https://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X
+* https://www.amazon.com/Ideas-History-Thought-Invention-Freud/dp/0060935642
+* https://www.amazon.com/Ideas-History-Thought-Invention-Freud/dp/0060935642
+* https://www.amazon.com/Brief-History-Thought-Philosophical-Learning/dp/0062074245
+* https://www.amazon.com/History-Knowledge-Past-Present-Future/dp/0345373162
+
+## little ideas
+
+> what should the form factor be here? repo? notebook? animation?
+
+* parser generator with Bison
+* ledger https://news.ycombinator.com/item?id=42269227
+* dimensional analysis
+* strength of record
+
+### Levenshtein distance
+
+```python
+def levenshtein_distance(s1: str, s2: str) -> int:
+    """
+    Compute the Levenshtein distance between two strings.
+
+    :param s1: First string
+    :param s2: Second string
+    :return: Levenshtein distance
+    """
+    # Initialize matrix with size (len(s1)+1) x (len(s2)+1)
+    rows, cols = len(s1) + 1, len(s2) + 1
+    dp = [[0] * cols for _ in range(rows)]
+
+    # Fill the first row and column with indices
+    for i in range(rows):
+        dp[i][0] = i
+    for j in range(cols):
+        dp[0][j] = j
+
+    # Fill the rest of the matrix
+    for i in range(1, rows):
+        for j in range(1, cols):
+            cost = 0 if s1[i - 1] == s2[j - 1] else 1
+            dp[i][j] = min(
+                dp[i - 1][j] + 1,    # Deletion
+                dp[i][j - 1] + 1,    # Insertion
+                dp[i - 1][j - 1] + cost  # Substitution
+            )
+
+    return dp[-1][-1]
+
+
+# Example usage
+if __name__ == "__main__":
+    str1 = "kitten"
+    str2 = "sitting"
+    distance = levenshtein_distance(str1, str2)
+    print(f"Levenshtein distance between '{str1}' and '{str2}': {distance}")
+```
+
+### PageRank
+
+```python
+from collections import defaultdict
+
+def pagerank(graph, damping_factor=0.85, iterations=100):
+    # Initialize PageRank values to 1/N
+    nodes = list(graph.keys())
+    N = len(nodes)
+    ranks = {node: 1 / N for node in nodes}
+    
+    # Run the PageRank algorithm
+    for _ in range(iterations):
+        new_ranks = defaultdict(float)
+        for node in nodes:
+            # Distribute current rank to outbound links
+            outbound_links = graph[node]
+            if outbound_links:
+                shared_rank = ranks[node] / len(outbound_links)
+                for outbound in outbound_links:
+                    new_ranks[outbound] += shared_rank
+            # Handle dangling nodes (no outbound links)
+            else:
+                for other_node in nodes:
+                    new_ranks[other_node] += ranks[node] / N
+
+        # Apply the damping factor
+        for node in nodes:
+            new_ranks[node] = (1 - damping_factor) / N + damping_factor * new_ranks[node]
+        
+        ranks = new_ranks
+
+    return ranks
+
+# Example directed graph
+# Each key is a node, and its value is a list of nodes it links to
+example_graph = {
+    "A": ["B", "C"],
+    "B": ["C", "D"],
+    "C": ["A"],
+    "D": ["C"],
+    "E": ["A", "D"],
+}
+
+# Run the toy PageRank implementation
+result = pagerank(example_graph)
+
+# Print the results
+print("PageRank results:")
+for page, rank in sorted(result.items(), key=lambda x: x[1], reverse=True):
+    print(f"{page}: {rank:.4f}")
+```
+
+# 📓 MY NOTES ON OTHERS BOOKS
+
+https://daverupert.com/bookshelf/
