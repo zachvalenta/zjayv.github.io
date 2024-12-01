@@ -8,6 +8,7 @@ draft = true
 
 https://www.ai-supremacy.com/archive
 https://news.ycombinator.com/item?id=42256093
+https://news.ycombinator.com/item?id=42256093
 
 # web
 

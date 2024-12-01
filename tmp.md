@@ -8,6 +8,9 @@
 
 # 🗣️ BLOG
 
+🏔️ Julia Evans https://www.youtube.com/@wizardzines/videos
+> the zines has been her only job since 2019
+
 * addendum https://blog.plover.com/math/PM.html https://blog.plover.com/calendar/poor-richards-almanack.html
 * factors: smart, wise, taste
 * companies I want to work for https://www.wave.com/en/blog/world/
@@ -88,6 +91,7 @@ LEARNING TO CODE FAILURES
 FAVORITES https://buttondown.com/hillelwayne/archive/in-defense-of/
 * favorite software writing: Paul Ford what is code https://registerspill.thorstenball.com/p/joy-and-curiosity-8 https://www.youtube.com/watch?v=5WLlLxU2EZE
 * blogroll https://claytonerrington.com/
+* http://wmjas.wikidot.com/nabokov-s-recommendations
 
 Klosterman/Simmons post-election
 https://danluu.com/navigate-url/
@@ -137,6 +141,10 @@ OVERRATED
 
 # 📚️ MY BOOKS
 
+* https://www.netmeister.org/book/
+* https://gwern.net/book-writing
+> Yet, that’s the problem: I am in love with the idea of having published a book, but not with publishing a specific book. Like Douglas Adams, I want to have published a book and have the identity of ‘author’⁠1⁠, but not so much be writing a book—in the same way one might want to have ‘learned to read Mandarin’ or ‘become a bodybuilder’, but not to actually sweat through memorizing (and then forgetting) endless arbitrary characters or hours in the gym (followed by gluttony as cruel as the starvation). One can dabble in such things as a hobby and perhaps learn Chinese to the level of a kindergartener or do one’s health good without much sacrifice, but to gain those accomplishments to the level that would excite the envy & admiration of one’s friends & acquaintances is quite another thing.
+
 ## lyrics
 
 * Babatunde, Luambo, Rochereau, Mulatu, Francis Bebey, Cesaria Evora, Amalia Rodrigues
@@ -147,7 +155,9 @@ OVERRATED
 
 ## history of thought
 
-📙 history of private life
+📙
+* history of private life
+* Bryson short history of nearly everything
 
 FIELDS
 * math
