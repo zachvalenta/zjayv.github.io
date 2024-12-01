@@ -228,6 +228,10 @@ print(f"Weighted Biden support: {biden_support_weighted:.2f}")
 print(data[['group', 'biden_support', 'adjusted_biden_support']])
 ```
 
+### coverage
+
+https://nedbatchelder.com/blog/202411/coveragepy_originally.html
+
 ### dimensional analysis
 
 ```python

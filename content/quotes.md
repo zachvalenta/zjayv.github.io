@@ -47,6 +47,8 @@ template = "quotes.html"
 
 > I was pretty good by the time [I was in] 8th or 9th grade and then I just kinda sorta quit practicing and playing and by the time I left high school I was having a hard time breaking 80 two days in a row...I'd never broken 70 until my second year in college. Five years after that I was Player of the Year on tour. - Paul Azinger https://www.youtube.com/watch?v=NDJkWDxwj9k
 
+> Work at a natural pace. - Cal Newport
+
 > Every night before I go to bed I meditate. And every morning and evening I chant the Dizang Sutra and the Diamond Sutra. I only attended the first grade, but I’ve learned to read the characters in the sutras. I can tell you from my own experience that you can achieve something if you practice. If you don’t practice, you achieve nothing. - [Road to Heaven](https://www.amazon.com/Road-Heaven-Encounters-Chinese-Hermits/dp/1582435235)
 
 > Sow an act, reap a habit. Sow a habit, reap a character. Sow a character, reap a destiny.
