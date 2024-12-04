@@ -88,6 +88,8 @@ LEARNING TO CODE FAILURES
 
 ### my little world
 
+https://gendignoux.com/readlist/#programming-languages
+
 FAVORITES https://buttondown.com/hillelwayne/archive/in-defense-of/
 * favorite software writing: Paul Ford what is code https://registerspill.thorstenball.com/p/joy-and-curiosity-8 https://www.youtube.com/watch?v=5WLlLxU2EZE
 * blogroll https://claytonerrington.com/
@@ -141,10 +143,6 @@ OVERRATED
 
 # 📚️ MY BOOKS
 
-* https://www.netmeister.org/book/
-* https://gwern.net/book-writing
-> Yet, that’s the problem: I am in love with the idea of having published a book, but not with publishing a specific book. Like Douglas Adams, I want to have published a book and have the identity of ‘author’⁠1⁠, but not so much be writing a book—in the same way one might want to have ‘learned to read Mandarin’ or ‘become a bodybuilder’, but not to actually sweat through memorizing (and then forgetting) endless arbitrary characters or hours in the gym (followed by gluttony as cruel as the starvation). One can dabble in such things as a hobby and perhaps learn Chinese to the level of a kindergartener or do one’s health good without much sacrifice, but to gain those accomplishments to the level that would excite the envy & admiration of one’s friends & acquaintances is quite another thing.
-
 ## lyrics
 
 * Babatunde, Luambo, Rochereau, Mulatu, Francis Bebey, Cesaria Evora, Amalia Rodrigues
@@ -183,6 +181,7 @@ FIELDS
 
 > what should the form factor be here? repo? notebook? animation?
 
+* dependency injection
 * parser generator with Bison
 * ledger https://news.ycombinator.com/item?id=42269227
 * dimensional analysis
