@@ -1,3 +1,9 @@
++++
+title = "import of AI"
+date = 2024-12-07
+draft = true
++++
+
 https://x.com/barbell_fi
 https://simonwillison.net/2023/Dec/31/ai-in-2023/
 
