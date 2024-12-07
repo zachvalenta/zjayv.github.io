@@ -177,7 +177,7 @@ FIELDS
 * https://www.amazon.com/Brief-History-Thought-Philosophical-Learning/dp/0062074245
 * https://www.amazon.com/History-Knowledge-Past-Present-Future/dp/0345373162
 
-## little ideas
+## 💡 little ideas
 
 > what should the form factor be here? repo? notebook? animation?
 
