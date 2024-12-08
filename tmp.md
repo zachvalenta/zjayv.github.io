@@ -177,10 +177,11 @@ FIELDS
 * https://www.amazon.com/Brief-History-Thought-Philosophical-Learning/dp/0062074245
 * https://www.amazon.com/History-Knowledge-Past-Present-Future/dp/0345373162
 
-## 💡 little ideas
+## 💡 little ideas 弄明白
 
 > what should the form factor be here? repo? notebook? animation?
 
+* state machines https://www.achaq.dev/blog/distributed-systems-state-machines-special-relativity
 * dependency injection
 * parser generator with Bison
 * ledger https://news.ycombinator.com/item?id=42269227
