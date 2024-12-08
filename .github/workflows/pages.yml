@@ -13,13 +13,8 @@ jobs:
       - name: checkout repo
         uses: actions/checkout@v3
 
-      - name: build project
-        run: |
-          zola build
-
       - name: deploy to GH Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public/index.html
-
