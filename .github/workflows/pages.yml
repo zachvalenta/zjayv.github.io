@@ -1,14 +1,13 @@
-name: deploy to GH Pages
+name: Build and deploy GH Pages
 on: push
 jobs:
   build:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
     steps:
-      - name: checkout repo
-        uses: actions/checkout@v3
-      - name: deploy to GH Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+      - name: checkout main
+        uses: actions/checkout@v4
+      - name: create gh-pages branch from build on main
+        uses: shalzz/zola-deploy-action@master
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
