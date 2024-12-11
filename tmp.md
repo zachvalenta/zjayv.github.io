@@ -3,7 +3,8 @@
 > gifs https://adamj.eu/contact/
 
 * cv https://yorickpeterse.com/resume/
-* phone screen
+* phone screen http://127.0.0.1:1111/phone-screen/
+* CV http://127.0.0.1:1111/cv
 * quotes
 
 # 🗣️ BLOG
