@@ -1,3 +1,15 @@
+# META / SYNDICATION
+
+🏔️
+* Warmerdam https://calmcode.io
+* Willison
+
+MANY SMALL REPOS
+* facilitates sharing
+* global dep cache prevents pileup
+* prevent single repo from clutter
+* repo tag for grep: `nmb` | `sandbox`
+
 # ❄️ ABOUT
 
 > gifs https://adamj.eu/contact/
@@ -182,6 +194,7 @@ FIELDS
 
 > what should the form factor be here? repo? notebook? animation?
 
+* financial exchange https://www.youtube.com/watch?v=b1e4t2k2KJY
 * state machines https://www.achaq.dev/blog/distributed-systems-state-machines-special-relativity
 * dependency injection
 * parser generator with Bison
