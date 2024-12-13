@@ -4,8 +4,12 @@ date = 2024-12-07
 draft = true
 +++
 
+forcing people to think through things https://x.com/RealGeneKim/status/1853860996689064211
+sketching https://simonwillison.net/2024/Dec/4/steve-yegge/
 https://x.com/barbell_fi
 https://simonwillison.net/2023/Dec/31/ai-in-2023/
+https://simonwillison.net/2024/Dec/11/who-and-what-comprise-ai-skepticism/#atom-everything
+https://simonwillison.net/2024/Dec/10/ethan-mollick/
 
 # 1Mx
 

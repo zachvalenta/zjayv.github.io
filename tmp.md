@@ -194,6 +194,7 @@ FIELDS
 
 > what should the form factor be here? repo? notebook? animation?
 
+* compilers https://www.achaq.dev/blog/artemis https://www.achaq.dev/blog/compilers
 * financial exchange https://www.youtube.com/watch?v=b1e4t2k2KJY
 * state machines https://www.achaq.dev/blog/distributed-systems-state-machines-special-relativity
 * dependency injection
