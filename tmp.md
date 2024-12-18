@@ -1,24 +1,3 @@
-# META / SYNDICATION
-
-🏔️
-* Warmerdam https://calmcode.io
-* Willison
-
-MANY SMALL REPOS
-* facilitates sharing
-* global dep cache prevents pileup
-* prevent single repo from clutter
-* repo tag for grep: `nmb` | `sandbox`
-
-# ❄️ ABOUT
-
-> gifs https://adamj.eu/contact/
-
-* cv https://yorickpeterse.com/resume/
-* phone screen http://127.0.0.1:1111/phone-screen/
-* CV http://127.0.0.1:1111/cv
-* quotes
-
 # 🗣️ BLOG
 
 🏔️ Julia Evans https://www.youtube.com/@wizardzines/videos
@@ -52,13 +31,6 @@ ZA
 * dev journal https://www.peterbaumgartner.com/blog/wrapping-a-rust-crate-in-a-python-package/
 * how to fake being a pythonista in 2024
 > I wish there was a good place to learn “the other parts” of C++, the build systems, using static analyzers, testing, dependency management, etc. https://news.ycombinator.com/item?id=34229802
-
-## idea glossary
-
-FASHION
-* vibe shift
-* matte vs. gloss
-* high heels
 
 ## how i code
 
@@ -148,21 +120,7 @@ OVERRATED
 * need data specific to problem
 > First, though you need a lot of data for machine learning, the data you use is very specific to the problem that you’re trying to solve. GE has lots of telemetry data from gas turbines, Google has lots of search data, and Amex has lots of credit card fraud data. You can’t use the turbine data as examples to spot fraudulent transactions, and you can’t use web searches to spot gas turbines that are about to fail. https://www.ben-evans.com/benedictevans/2018/12/19/does-ai-make-strong-tech-companies-stronger
 
-# 📹 HM
-
-## draw
-## music
-## skate
-
 # 📚️ MY BOOKS
-
-## lyrics
-
-* Babatunde, Luambo, Rochereau, Mulatu, Francis Bebey, Cesaria Evora, Amalia Rodrigues
-
-## learn econ with Python
-
-* learn econ with Python https://en.wikipedia.org/wiki/Paul_Romer
 
 ## history of thought
 
@@ -186,7 +144,6 @@ FIELDS
 
 * https://www.amazon.com/Short-History-Nearly-Everything/dp/076790818X
 * https://www.amazon.com/Ideas-History-Thought-Invention-Freud/dp/0060935642
-* https://www.amazon.com/Ideas-History-Thought-Invention-Freud/dp/0060935642
 * https://www.amazon.com/Brief-History-Thought-Philosophical-Learning/dp/0062074245
 * https://www.amazon.com/History-Knowledge-Past-Present-Future/dp/0345373162
 
@@ -195,6 +152,8 @@ FIELDS
 > what should the form factor be here? repo? notebook? animation?
 
 * compilers https://www.achaq.dev/blog/artemis https://www.achaq.dev/blog/compilers
+* financial modeling https://quantus.finance/
+* conventional commits https://github.com/charmbracelet/gum
 * financial exchange https://www.youtube.com/watch?v=b1e4t2k2KJY
 * state machines https://www.achaq.dev/blog/distributed-systems-state-machines-special-relativity
 * dependency injection
@@ -376,12 +335,3 @@ for page, rank in sorted(result.items(), key=lambda x: x[1], reverse=True):
 ```
 
 ### telemetry vocab
-
-# 📓 MY NOTES ON OTHERS BOOKS
-
-https://daverupert.com/bookshelf/
-
-# 🔑 PERSONAL
-
-## photos
-## updates

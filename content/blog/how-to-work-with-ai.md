@@ -10,6 +10,10 @@ https://www.ai-supremacy.com/archive
 https://news.ycombinator.com/item?id=42256093
 https://news.ycombinator.com/item?id=42256093
 
+# use cases
+
+https://news.ycombinator.com/item?id=42336553
+
 # web
 
 FEATURES

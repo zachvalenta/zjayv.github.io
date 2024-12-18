@@ -11,6 +11,8 @@ date = 2024-09-22
 
 ## ❌ the bad
 
+meant for college kids https://blog.danielh.cc/blog/leetcode
+
 ### [the average 'success story' resembles high schoolers gaming the Ivy League](https://news.ycombinator.com/item?id=12262405)
 
 https://danluu.com/algorithms-interviews/
