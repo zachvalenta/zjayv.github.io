@@ -13,6 +13,7 @@ https://news.ycombinator.com/item?id=42256093
 # use cases
 
 https://news.ycombinator.com/item?id=42336553
+https://marginalrevolution.com/marginalrevolution/2024/12/why-you-should-be-talking-with-gpt-about-philosophy.html
 
 # web
 
