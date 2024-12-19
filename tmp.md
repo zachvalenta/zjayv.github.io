@@ -47,16 +47,6 @@ https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-net
 * tracing
 * analytics
 
-## TIL
-
-https://jvns.ca/blog/2024/11/09/new-microblog/
-Lazygit multiple repos
-https://news.ycombinator.com/item?id=42116800
-
-LEARNING TO CODE FAILURES
-* https://danluu.com/learning-to-program/
-* DHH https://www.youtube.com/watch?v=9LfmrkyP81M
-
 ## opinions
 
 ### complaints
@@ -67,6 +57,8 @@ LEARNING TO CODE FAILURES
 
 ### conferences
 
+* https://hynek.me/articles/speaking/
+* https://www.jeffgeerling.com/blog/2018/how-i-record-my-own-conference-presentations
 * PyCon: price, Youtube video URL change https://pycon-archive.python.org/2024/schedule/
 * authority e.g. voting security talk
 * Yegge visibility but also a way to fake
