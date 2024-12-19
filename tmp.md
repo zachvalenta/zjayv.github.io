@@ -32,21 +32,6 @@ ZA
 * how to fake being a pythonista in 2024
 > I wish there was a good place to learn “the other parts” of C++, the build systems, using static analyzers, testing, dependency management, etc. https://news.ycombinator.com/item?id=34229802
 
-## how i code
-
-https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-network-dns
-> https://uses.tech/ meta https://calmcode.io/
-> changing stuff and seeing what happens https://orlybooks.com/
-* profiling
-* test
-* docs
-* API
-* paradigms
-* servers
-* monitoring / metrics
-* tracing
-* analytics
-
 ## opinions
 
 ### complaints
