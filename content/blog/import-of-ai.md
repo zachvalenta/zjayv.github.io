@@ -4,6 +4,7 @@ date = 2024-12-07
 draft = true
 +++
 
+> Claude can make mistakes. Please double-check responses.
 forcing people to think through things https://x.com/RealGeneKim/status/1853860996689064211
 sketching https://simonwillison.net/2024/Dec/4/steve-yegge/
 https://x.com/barbell_fi
