@@ -27,3 +27,5 @@ KEEPING UP
 * people - Thorsten, Luu, Somers, Patio11, Julia Evans, Jess Frazze, Yegge, PG
 
 things outside my little world https://www.oneletterwords.com/weblog/?c=Restoring+the+Lost+Sense
+
+> I'm in the middle of an enjoyable history of the Dutch Republic right now, and one thing the book points out is that Holland needed more complex and more local institutions earlier than other parts of Europe, because they had to reclaim land and manage the dike system. It's hard to do that from an imperial court hundreds of miles away, so they had to figure it out on their own. Incidentally, medieval Holland was also a very early example of the export-driven economic development model of accumulating capital equipment that can process raw materials into high value-added exports. In their case the input was Baltic grain, the capital was cattle, and the exports were cheese. https://www.thediff.co/archive/economic-lessons-from-the-last-few-singularities/ https://www.amazon.com/Dutch-Republic-Greatness-1477-1806-History/dp/0198207344
