@@ -4,6 +4,8 @@ date = 2024-11-20
 draft = true
 +++
 
+https://www.thoughtworks.com/radar/techniques/observability-2-0 https://claude.ai/chat/6bcfcae0-6294-47ef-a3bf-588a7f178c0e
+
 # news
 
 https://www.ai-supremacy.com/archive
