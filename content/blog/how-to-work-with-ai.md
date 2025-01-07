@@ -5,6 +5,8 @@ draft = true
 +++
 
 https://www.thoughtworks.com/radar/techniques/observability-2-0 https://claude.ai/chat/6bcfcae0-6294-47ef-a3bf-588a7f178c0e
+https://crawshaw.io/blog/programming-with-llms
+https://x.com/robertghrist/status/1874105564051234951
 
 # news
 
