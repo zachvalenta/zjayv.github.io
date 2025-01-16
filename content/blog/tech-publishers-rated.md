@@ -28,8 +28,9 @@ https://danluu.com/programming-books/
 * video series seem like cash grab on their most popular titles vs. actually doing some sort of interactive visualization
 
 LIVEBOOK
-* super fast customer svc, their UI for notebooks was confusing, asked "how can I view my annotations?" and got an email response in 15 minutes
-* toasters that you cant x out of, need page reload to banish
+* ✅ super fast customer svc, asked "how can I view my annotations?" and got an email response in 15 minutes
+* ❌ notebook: access through main menu
+* ❌ toasters that you cant x out of, need page reload to banish
 * `h` highlight `n` note `b` bookmark
 > couldn't get this to work even after Vimium config -> try again after browser restart
 
