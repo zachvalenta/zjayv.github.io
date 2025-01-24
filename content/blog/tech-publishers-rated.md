@@ -76,6 +76,10 @@ academic = expensive https://www.amazon.com/dp/0134757599/
 
 uncle bob books
 
+## Packt
+
+> Order placed successfully! Your order #1234 has been placed successfully. Access the product by creating an account!
+
 ## PluralSight
 
 * if you want to become a Microsoft MVP or do 47 hours of AWS training...
