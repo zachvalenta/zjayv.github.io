@@ -7,7 +7,7 @@ draft = true
 > Claude can make mistakes. Please double-check responses.
 https://www.youtube.com/watch?v=ImNpR0O8nuA
 forcing people to think through things https://x.com/RealGeneKim/status/1853860996689064211
-https://registerspill.thorstenball.com/p/surely-not-all-codes-worth-it
+https://registerspill.thorstenball.com/p/surely-not-all-codes-worth-it https://registerspill.thorstenball.com/p/how-might-ai-change-programming
 sketching https://simonwillison.net/2024/Dec/4/steve-yegge/
 https://x.com/barbell_fi
 https://simonwillison.net/2023/Dec/31/ai-in-2023/

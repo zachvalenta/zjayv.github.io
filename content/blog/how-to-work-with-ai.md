@@ -7,6 +7,8 @@ draft = true
 https://www.thoughtworks.com/radar/techniques/observability-2-0 https://claude.ai/chat/6bcfcae0-6294-47ef-a3bf-588a7f178c0e
 https://crawshaw.io/blog/programming-with-llms
 https://x.com/robertghrist/status/1874105564051234951
+> “When thinking about coding with LLMs, think of them as generators of templates. You say what code you need, and an LLM provides you with a template from a collection that most closely resembles the code you needed.” I’ve said something similar in different conversations these past few weeks and that I’ve begun thinking of LLMs-as-code-assistant more in the category of frameworks and generators than magic wands. https://registerspill.thorstenball.com/p/joy-and-curiosity-23
+* https://simonwillison.net/2024/Dec/31/llms-in-2024/#knowledge-is-incredibly-unevenly-distributed https://simonwillison.net/2024/Dec/31/llms-in-2024/#synthetic-training-data-works-great
 
 # news
 
