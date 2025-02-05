@@ -6,6 +6,7 @@ draft = true
 
 > Claude can make mistakes. Please double-check responses.
 https://www.youtube.com/watch?v=ImNpR0O8nuA
+https://marginalrevolution.com/marginalrevolution/2025/02/o1-pro.html
 forcing people to think through things https://x.com/RealGeneKim/status/1853860996689064211
 https://registerspill.thorstenball.com/p/surely-not-all-codes-worth-it https://registerspill.thorstenball.com/p/how-might-ai-change-programming
 sketching https://simonwillison.net/2024/Dec/4/steve-yegge/
