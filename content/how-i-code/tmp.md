@@ -21,6 +21,7 @@ TERMINAL
 
 # cleanup
 
+https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md
 * https://chriskiehl.com/article/thoughts-after-10-years
 * https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/
 https://github.com/trimstray/the-book-of-secret-knowledge#black_small_square-network-dns

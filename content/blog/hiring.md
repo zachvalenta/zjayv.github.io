@@ -7,6 +7,9 @@ date = 2024-09-22
 
 > [Tech industry hiring processes are folkloric and irrational](https://news.ycombinator.com/item?id=7260087 )
 
+https://news.ycombinator.com/item?id=43145489
+https://news.ycombinator.com/item?id=43125402
+
 <hr>
 
 ## ❌ the bad
