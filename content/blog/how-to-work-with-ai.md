@@ -4,6 +4,10 @@ date = 2024-11-20
 draft = true
 +++
 
+Stack Overflow won
+
+importance of technical writing increases
+
 https://news.ycombinator.com/item?id=42936346
 ```txt
 I'm going to take a contrarian view and say it's actually a good UI, but it's all about how you approach it.
