@@ -32,7 +32,8 @@ LIVEBOOK
 * ❌ notebook: access through main menu
 * ❌ toasters that you cant x out of, need page reload to banish
 * `h` highlight `n` note `b` bookmark
-> couldn't get this to work even after Vimium config -> try again after browser restart
+> ❌ couldn't get this to work even after Vimium config -> try again after browser restart
+> ❌ no obvious way to see if you've highlighted something in a book -> 'this notebook' from the sidebar
 
 ## No Starch
 
