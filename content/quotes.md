@@ -31,6 +31,8 @@ template = "quotes.html"
 
 # practice
 
+> The joy of practicing leads you to the celebration of the creation. - [Cecil Taylor](https://www.youtube.com/watch?v=rNXvQaBEByg)
+
 > You have to play a long time to be able to play like yourself - [Miles Davis](https://en.wikipedia.org/wiki/Miles_davis)
 
 > You have to practice before you can become aware of your original nature, your original face - [Road to Heaven](https://www.amazon.com/Road-Heaven-Encounters-Chinese-Hermits/dp/1582435235)
