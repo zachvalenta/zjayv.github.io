@@ -1,3 +1,8 @@
++++
+title = "data analysis"
+date = 2025-06-24
++++
+
 💻 https://github.com/zachvalenta/query-sandbox
 
 # TOOLING

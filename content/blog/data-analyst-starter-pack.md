@@ -1,3 +1,8 @@
++++
+title = "data analyst starter pack"
+date = 2025-06-24
++++
+
 # 💻 DENV
 
 ## core
