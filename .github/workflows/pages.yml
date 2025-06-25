@@ -10,5 +10,5 @@ jobs:
       - name: create gh-pages branch from build on main
         uses: shalzz/zola-deploy-action@master
         env:
-          PAGES_BRANCH: main
+          PAGES_BRANCH: gh-pages
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
